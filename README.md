@@ -1,11 +1,11 @@
 <div align="center">
   <img width="600" src="assets/spotube_banner.png" alt="Spotube Logo">
 
-An open source, cross-platform Spotify client compatible across multiple platforms<br />
-utilizing Spotify's data API and YouTube, Piped.video or JioSaavn as an audio source,<br />
-eliminating the need for Spotify Premium
+Klien Spotify open source, lintas platform yang kompatibel di berbagai platform<br />
+memanfaatkan API data Spotify dan YouTube, Piped.video atau JioSaavn sebagai sumber audio,<br />
+menghilangkan kebutuhan untuk Spotify Premium
 
-Btw it's not just another Electron app 😉
+Ngomong-ngomong, ini bukan sekadar aplikasi Electron lainnya 😉
 
 <a href="https://spotube.krtirtho.dev"><img alt="Visit the website" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg"></a>
 <a href="https://discord.gg/uJ94vxB6vg"><img alt="Discord Server" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
